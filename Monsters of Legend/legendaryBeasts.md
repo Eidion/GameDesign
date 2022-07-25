@@ -60,4 +60,8 @@ The Demonic Wolf can take 3 legendary actions, choosing from the options below. 
 
 ### Description
 
-Demonic wolves are the product of dark magic, twisting natural animals.  Packs of demonic wolves are created when dark spirits possess the wolves, and imbue them with dark desires.  These initial packs begin to hunt, ravenously and cruely, killing not just to eat, but delighting in dealing pain and suffering to people and beasts alike.  Over time, these packs breed and grow
+Demonic wolves are the product of dark magic, twisting natural animals.  Packs of demonic wolves are created when dark spirits possess the wolves, and imbue them with dark desires.  These initial packs begin to hunt, ravenously and cruely, killing not just to eat, but delighting in dealing pain and suffering to people and beasts alike.  Over time, these packs breed and grow, and expand.
+
+This process transforms the wolves from beasts to monstrosities, and increases their size and ferocity greatly.
+
+While many of these creatures stay in wild lands such as deep forests and mountains, it is not uncommon that individuals will often encroach in to the borderlands to attack and kill the livestock (and citizens) of villages and freeholds.  When that happens, villages will often hire adventurers to hunt down these beasts.
