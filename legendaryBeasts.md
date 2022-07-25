@@ -60,4 +60,4 @@ The Demonic Wolf can take 3 legendary actions, choosing from the options below. 
 
 ### Description
 
-Demonic wolves are the product of dark magic.  Evil spirits 
+Demonic wolves are the product of dark magic, twisting natural animals.  Packs of demonic wolves are created when dark spirits possess the wolves, and imbue them with dark desires.  These initial packs begin to hunt, ravenously and cruely, killing not just to eat, but delighting in dealing pain and suffering to people and beasts alike.  Over time, these packs breed and grow
