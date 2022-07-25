@@ -1,8 +1,8 @@
-# Monster Template
+# Legendary Beasts
 
-## Monster Name
+## Demonic Wolf
 
-*Size Type, Alignment*
+*Large Beast, Neutral Evil*
 
 ---
 
@@ -61,8 +61,6 @@
 Monster can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Monster regains spent legendary actions at the start of their turn.
 
 **Legendary Action(Costs 1 Action).** Description
-
----
 
 ### Description
 
