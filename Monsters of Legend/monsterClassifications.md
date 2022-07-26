@@ -39,6 +39,20 @@ The origins are:
 - **Natural** - 
 - **Shadow** -  
 
+###
+
+- **Humanoids** – For creatures that match the general humanoid form; standing on legs at least some of the time, with hands, able to use equipment, and so on.
+  - Examples: Humans, dwarves, elves, sprites, gnomes, giants, goblins
+- **Beasts** – For creatures with intelligence less than 3, that are unable to communicate or use equipment.  Often quadrupeds (or more)
+  - Examples: Wolves, bears, chimera
+- **Magical Beasts** – For creatures with the shapes of beasts, but a higher intelligence and ability to communicate or use magic.
+  - Examples: Dragons, unicorns
+- **Animates** – For creatures that resemble objects
+  - Examples: Treants, animated statues
+- **Spirits** – For creatures without a physical body
+  - Examples: Wraiths, ghosts
+
+
 ## Using Classifications with Existing Material
 
 It also describes how to translate 5e default Types to Monster of Legend Classifications.
