@@ -1,0 +1,45 @@
+# Monster Classification
+
+[Types](https://www.dndbeyond.com/sources/mm/introduction#Type) in D&D are intended to speak to the fundamental nature of a creature.  As a result, they are very specific to the planar lore and and history of the D&D "hybrid setting."
+
+However, this can sometimes be at odds with homebrew lore.  For example, Fiends are creatures tied to the Lower Planes.  They are not native to the World, and require summoning or other processes to get in to the World to start raising hell. (pun intended)
+
+This means that your setting needs a "Hell" like place - perhaps not specifically the Nine Hells and the Abyss mentioned in D&D's core lore, but something to tie to the Fiend type.
+
+It also means that Fiend is not the correct type for an evil spirit native to the World.  For example, a corrupted tree spirit, or something else that emerges from the corruption of something natural.
+
+To provide for backwards compatibility, but also to explore new ground, Monsters of Legend uses the following classification system:
+
+- **Origin** - Detailing the cosmological creation of the creature.
+- **Type** - A summary of its appearance and behavior.
+- **Keywords** - That further defines the creature.  Can include heritage designators, like Elf, Orc, Dwarf, or others.  It can also include Class based designators, like Wizard, Fighter, Warlock, or others.  Creatures can have one, more than one, or no keywords.
+
+This is presented underneath the default type line of the monster, to provide backwards compatability.
+
+For example, the Demonic Wolf features the following:
+
+![Demonic Wolf Name Block](./images/Demonic%20Wolf.png)
+
+This way, you can continue to use the existing type line if you prefer it.
+
+## Classifying Monsters
+
+This section details the classification elements of Origin, Types, and additional Keywords.
+
+### Origins
+
+Origins represent where a creature comes from in the cosmology.  They are intended to be more flexible to work with a setting, by describing what the expectations are without building significant lore.
+
+The origins are:
+
+- **Abberant** - 
+- **Elemental** -
+- **Fey** - 
+- **Immortal** - 
+- **Natural** - 
+- **Shadow** -  
+
+## Using Classifications with Existing Material
+
+It also describes how to translate 5e default Types to Monster of Legend Classifications.
+

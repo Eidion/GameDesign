@@ -2,9 +2,21 @@
 
 Legendary beasts are monsters that resemble animals and beasts, but are larger, more fierce, and more violent than their natural peers.  Instead of being seen as part of the natural order, they are dangerous threats.  Most of them as Monstrosities, as they are magically enhanced or tied to dark magic.
 
+This section contains the following legendary beasts:
+
+* Crag Serpent
+* [Demonic Wolf](legendaryBeasts.md#demonic-wolf) *CR 3* - An evil wolf monster that prowls about the wild lands.
+* Fel Beast
+* Mountain Lord
+* Storm Falcon
+
+
+
 ## Demonic Wolf
 
 *Large Monstrosity, Neutral Evil*
+
+*Shadow Beast (Wolf)*
 
 ---
 
