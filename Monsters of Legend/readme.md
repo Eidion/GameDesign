@@ -8,5 +8,5 @@ The [Monster Template](templateMonster.md) is used to create standard formatted 
 
 ## Sections
 
-* [Monster Classifications](./monsterClassifications.md) to learn more about the alternate classification system for monsters presented here.
-* [Legendary Beasts](legendaryBeasts.md) represent dangerous monsters that resemble or are created from animals.
+
+* [Legendary Beasts](monsterBlocks.md) represent dangerous monsters that resemble or are created from animals.

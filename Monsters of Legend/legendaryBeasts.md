@@ -7,7 +7,7 @@ This section contains the following legendary beasts:
 * Crag Serpent
 * [Demonic Wolf](legendaryBeasts.md#demonic-wolf) *CR 3* - An evil wolf monster that prowls about the wild lands.
 * Fel Beast
-* Mountain Lord
+* [Mountain Lord](legendaryBeasts.md#mountain-lord)
 * Storm Falcon
 
 
@@ -72,8 +72,78 @@ The Demonic Wolf can take 3 legendary actions, choosing from the options below. 
 
 ### Description
 
-Demonic wolves are the product of dark magic, twisting natural animals.  Packs of demonic wolves are created when dark spirits possess the wolves, and imbue them with dark desires.  These initial packs begin to hunt, ravenously and cruely, killing not just to eat, but delighting in dealing pain and suffering to people and beasts alike.  Over time, these packs breed and grow, and expand.
+Demonic wolves are the product of dark magic, twisting natural animals.  Packs of demonic wolves are created when dark spirits possess the wolves, and imbue them with dark desires.  This process transforms the wolves from beasts to monstrosities, and increases their size and ferocity greatly.
 
-This process transforms the wolves from beasts to monstrosities, and increases their size and ferocity greatly.
+These initial packs begin to hunt, ravenously and cruely, killing not just to eat, but delighting in dealing pain and suffering to people and beasts alike.  Over time, these packs breed and grow, and expand.
+
+
 
 While many of these creatures stay in wild lands such as deep forests and mountains, it is not uncommon that individuals will often encroach in to the borderlands to attack and kill the livestock (and citizens) of villages and freeholds.  When that happens, villages will often hire adventurers to hunt down these beasts.
+
+## Monster Name
+
+*Size Type, Alignment*
+
+---
+
+**Armor Class** XX
+
+**Hit Points** XX (NdZ + Y)
+
+**Speed** XX ft.
+
+**Initiative** +X
+
+---
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-|-|-|-|-|-|
+| XX (+Y) | XX (+Y) | XX (+Y) | XX (+Y) | XX (+Y) | XX (+Y) |   
+
+---
+
+**Skills** SkillName +X
+
+**Senses** Darkvision 60 ft., Passive Perception YY 
+
+**Languages** --
+
+**Challenge** X (YYY XP)
+
+**Proficiency Bonus** +Y
+
+---
+
+**Trait.**  Description 
+
+---
+
+### Actions
+
+**Attack.** +X to hit, reach 5 ft., one target.  *Hit:* XX (NdY + Z) type damage.
+
+---
+
+### Bonus Actions
+
+**Bonus Action.**  Description 
+
+---
+
+### Reactions
+
+**Reaction.**  Description 
+
+---
+
+### Legendary Actions
+
+Monster can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Monster regains spent legendary actions at the start of their turn.
+
+**Legendary Action (Costs 1 Action).** Description
+
+---
+
+### Description
+
+> Lore goes here.
