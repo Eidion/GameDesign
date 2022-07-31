@@ -18,3 +18,7 @@ PCs are going to gather here, with such goals as:
 - Gods dwell in their temples physically
 - Gods sleep a lot.
 
+
+## Frozen Gods
+
+Gods are encasted in crystal, and exist inside of major settlements.
