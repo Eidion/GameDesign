@@ -6,7 +6,7 @@ Taryn was trying to complete her journey to become the Jack of Shadows.  To do t
 
 ## Do two of these:
 
-[] Slay Gavrin Redcap.
+[ ] Slay Gavrin Redcap.
 
 [] Make Gavrin Redcap suffer.
 
