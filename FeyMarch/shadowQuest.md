@@ -15,7 +15,7 @@ Taryn was trying to complete her journey to become the Jack of Shadows.  To do t
 ## And three of these:
 
 - [ ] Scare a human back on track.
-- [ ] Kill a human at night.
+- [X] Kill a human at night.
 - [ ] Give a human the power to take their own revenge.
 - [ ] Banish a spirit to the Well of Shadows.
 - [ ] Help a faerie get vengance against those who have hurt them.
