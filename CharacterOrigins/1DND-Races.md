@@ -88,7 +88,7 @@ Condition on yourself.
 - **Skill Dilettante.** You gain proficiency with one Skill.
 - **Weapons Dilettante.** You gain proficiency with two weapons.
 - **Armor Dilettante.** You gain proficiency with light and medium armor.  If your class grants you profiency with light armor, you also gain proficiency with shields.
-- **Magic Dilettante.** You learn two cantrips tof your choice.  Intelligence, Wisdom, or Charisma is your 
+- **Magic Dilettante.** You learn two cantrips of your choice.  Intelligence, Wisdom, or Charisma is your 
 spellcasting ability for these Spells (Select when taking this ability)
 
 ### Half-Orc
