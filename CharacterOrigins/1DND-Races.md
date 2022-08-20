@@ -50,12 +50,9 @@ Resembling a blend of both parents physically, half-elves share humanity's diver
 
 #### Half-Elf Traits
 
-**Creature Type**: Humanoid.
-
-**Size:** Medium (about 4-7 feet tall)
-
-**Speed:** 30 feet
-
+**Creature Type**: Humanoid.  
+**Size:** Medium (about 4-7 feet tall)  
+**Speed:** 30 feet  
 **Life Span:** 400 years on average
 
 As a Half-Elf, you have these special traits.
@@ -76,7 +73,7 @@ Condition on yourself.
 
 ***Dilettante.*** You have dabbled in the lessons of another class, and added their proficiencies to your skillset.  Choose a class.  You then choose two of the following benefits related to that choice:
 
-- **Skill Dilettante.** You gain proficiency with one Skill that class is proficient with.
+- **Skill Dilettante.** You gain proficiency with one Skill or tool that that class is proficient with.
 - **Weapons Dilettante.** You gain proficiency with two weapons that class is proficient with.
 - **Armor Dilettante.** You gain the armor proficiencies of that class.
 - **Magic Dilettante.** You learn two cantrips that that class has access to.
@@ -85,7 +82,7 @@ Condition on yourself.
 
 ***Dilettante.*** You have dabbled in lessons outside of your main skillset, and grown your proficiencies and abilities as a result.  Choose two of the following:
 
-- **Skill Dilettante.** You gain proficiency with one Skill.
+- **Skill Dilettante.** You gain proficiency with one Skill or tool.
 - **Weapons Dilettante.** You gain proficiency with two weapons.
 - **Armor Dilettante.** You gain proficiency with light and medium armor.  If your class grants you profiency with light armor, you also gain proficiency with shields.
 - **Magic Dilettante.** You learn two cantrips of your choice.  Intelligence, Wisdom, or Charisma is your 
