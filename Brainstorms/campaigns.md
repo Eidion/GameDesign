@@ -22,3 +22,11 @@ PCs are going to gather here, with such goals as:
 ## Frozen Gods
 
 Gods are encasted in crystal, and exist inside of major settlements.
+
+## Snowed In
+
+Party meets snowed in at a monestary and some threat happens.
+
+## Sacrifice
+
+Party visits a village in time for their yearly sacrifice

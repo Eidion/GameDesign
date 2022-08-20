@@ -9,6 +9,7 @@ This section contains the following legendary beasts:
     * [Demonic Wolf](legendaryBeasts.md#demonic-wolf) *CR 3* - An evil wolf monster that prowls the borderlands and attacks villages. 
     * [Great Demonic Wolf](legendaryBeasts.md#great-demonic-wolf) *CR 5* - An evil wolf monster with great might that rules over a wild territory.
 * Fel Beast
+* Gargoyle, Greater - an elemental of earth and water, that has a strong body and can vomit torrents of water.
 * [Mountain Lord](legendaryBeasts.md#mountain-lord)
 * Storm Falcon
 
