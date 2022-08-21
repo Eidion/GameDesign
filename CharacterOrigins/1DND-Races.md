@@ -84,8 +84,65 @@ Condition on yourself.
 
 - **Skill Dilettante.** You gain proficiency with one Skill or tool.
 - **Weapons Dilettante.** You gain proficiency with two weapons.
-- **Armor Dilettante.** You gain proficiency with light and medium armor.  If your class grants you profiency with light armor, you also gain proficiency with shields.
+- **Armor Dilettante.** You gain proficiency with light.  If your class grants you profiency with light armor, you also gain proficiency with medium armor and shields.  If your class grants you profiency with medium armor and shields, you gain profiency with heavy armor.
 - **Magic Dilettante.** You learn two cantrips of your choice.  Intelligence, Wisdom, or Charisma is your 
 spellcasting ability for these Spells (Select when taking this ability)
 
+> Consideration as a replacement for Dilettante - Granting an additional background?
+
+#### Design Notes
+
+Initial balance was guided by the following thought process:
+
+- Dual Heritage is a ribbon that does not warrant serious mechanical consideration.
+- Fey Ancestry and Dark Vision are worth a little more than a skill.
+- Inspirational is equivelent to Skillful in the human traits, and worth the secondary elf traits.
+- Dilettante is worth between 1/2 a feat and a whole feat, which is about worth the elven magical abilities.
+  - A skill is worth 1/3 of a feat.
+  - Profiency with two weapons is worth 1/4 a feat.
+  - Light and medium armor is worth
+    - Light armor proof is worth 1/2 feat.
+    - Medium armor and shields are worth 1/2 a feat.
+    - Heavy armor is worth 1/2 a feat.
+  - Two cantrips are worth between 1/2 and 2/3 a feat.
+
 ### Half-Orc
+
+#### Design Notes
+
+Half-Orcs are a challenge to me because I have never been a big fan of them, but have played with people who enjoy them.  
+
+My initial research indicates that the following are among the reasons people like to play them: 
+
+- To play a character that is visibly monsterous.
+- To play a character who is an outcast.
+- To explore dark emotions or themes.
+- To play a character who is strong and fast.
+- To play a character who is part of a culture that values primal tropes.
+
+However, there are a lot of existing options for this:
+
+- Any character can be an outcast - that is more of a background over all.
+- Dragonborn are strong and visibly monsterous.
+- Tieflings work great for dark emotions or themes, and for playing a monsterous or outcast character.
+- Goliaths are strong and primal.
+- With orc as a main option, all of these boxes can be checked as well.
+
+In fact, it seems like the *main* reason for playing a half-orc in previous iterations was "to play an orc, but make it be more socially acceptable."
+
+With the necessary move to stop painting humanoid races as more or less worthy of life, liberty, and status as a viable Player Character, a lot of these attributes need to be pulled away from the race and placed on other aspects of the origin, or be tied to the game world's culture and not tied to the race.
+
+For example, it is reasonable for a DM to say:
+
+> Because of the border wars with the orc tribes, orcs have disadvantage on Charisma based checks with Hostile or Indifferent villagers.  Some villagers will also be Hostile by default.
+
+However, it isn't reasonable to tie this to the race itself, such that:
+
+> **Stigma.**  Orcs suffer disadvantage on Charisma based checks with Humans, because of the border wars between their people.
+
+In the first example, the outcast/social situation is attached to the village and is part of a situation.  In the other, it is a trait of the race itself, which should be avoided.
+
+So with the orc becoming a viable player character race, is there a reason to play a half-orc?  And if so, what is it?
+
+One thing I identified in my research was the idea of "making the most of a difficult situation."  That's something that isn't found with the full orc.
+
