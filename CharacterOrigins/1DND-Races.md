@@ -67,28 +67,12 @@ Condition on yourself.
 
 ***Inspirational.*** You can grant inspiration to one ally Inspiration* whenever you finish a Long Rest.
 
-> Two versions of Dilettante are presented here, to see which is more preferred.
-
-> Version 1, class based:
-
-***Dilettante.*** You have dabbled in the lessons of another class, and added their proficiencies to your skillset.  Choose a class.  You then choose two of the following benefits related to that choice:
-
-- **Skill Dilettante.** You gain proficiency with one Skill or tool that that class is proficient with.
-- **Weapons Dilettante.** You gain proficiency with two weapons that class is proficient with.
-- **Armor Dilettante.** You gain the armor proficiencies of that class.
-- **Magic Dilettante.** You learn two cantrips that that class has access to.
-
-> Version 2, effect based:
-
 ***Dilettante.*** You have dabbled in lessons outside of your main skillset, and grown your proficiencies and abilities as a result.  Choose two of the following:
 
 - **Skill Dilettante.** You gain proficiency with one Skill or tool.
 - **Weapons Dilettante.** You gain proficiency with two weapons.
 - **Armor Dilettante.** You gain proficiency with light.  If your class grants you profiency with light armor, you also gain proficiency with medium armor and shields.  If your class grants you profiency with medium armor and shields, you gain profiency with heavy armor.
-- **Magic Dilettante.** You learn two cantrips of your choice.  Intelligence, Wisdom, or Charisma is your 
-spellcasting ability for these Spells (Select when taking this ability)
-
-> Consideration as a replacement for Dilettante - Granting an additional background?
+- **Magic Dilettante.** You learn two cantrips of your choice.  Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (Select when taking this ability)
 
 #### Design Notes
 
