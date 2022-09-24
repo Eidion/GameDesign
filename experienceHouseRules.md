@@ -65,7 +65,7 @@ The difference is if there is a change in circumstances.  For example, if the pa
 
 Depending on the nature of the conflict with the adversary, the DM may decide that in that situation the adversary has an adversary level not reflected by their CR.  For example, a skilled negotiator with several tricks up his sleeves might be a dangerous adversary at the negotiation table, but a laughable threat if the party decides to knife him in an alley.
 
-## Completing Quests
+### Completing Quests
 
 Quests are goals that are either given to characters by NPCs, or a personal quest that the characters chose for themselves based on the situations available.
 
