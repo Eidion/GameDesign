@@ -8,7 +8,7 @@ The below experience system replaces the experience points and leveling system f
 
 Characters start out with 0 experience points.  By completing quests, overcoming adversaries, and making discoveries, they gain experience points.  Once they reach 100 XP, they are able to level.  Their experience points reset to 0, and they are able to gain a new level.
 
-Any remaining experience points are halved and applied to the new level's experience points total.
+Any remaining experience points are halved (rounded up) and applied to the new level's experience points total.
 
 ### Starter Level Variants
 
@@ -16,9 +16,9 @@ You might look at levels 1, 2, and 3 as training levels.  If that is the case, y
 
 If that is the case, you can triple experience awards to level 1 characters, and double awards to level 2 characters.
 
-In practice, this means that it will take five challenging adversaries (5 XP each, so 75 XP total) and one dangerous adversary (10 XP, so 30 XP total).
+In practice, this means that it will take five challenging adversaries (5 XP each, so 75 XP total) and one dangerous adversary (10 XP, so 30 XP total).  This will level a character up, with 3 XP remaining (5 halves, rounded down).
 
-It also means that to achieve level 3 after that will take two dangerous adversaries (10 XP each, so 40 XP total) and four challenging adversaries (5 XP each, so 40 XP total), and the completion of a quest (10 XP, so 20 XP total).
+It also means that to achieve level 3 after that will take two dangerous adversaries (10 XP each, so 40 XP total) and four challenging adversaries (5 XP each, so 40 XP total), and the completion of a quest (9 XP, so 18 XP total).
 
 You can tweak this further if you wish, by making level 1 only take 50 XP to obtain, and level 2 take 75 XP to obtain.
 
@@ -32,6 +32,10 @@ If you are using training house rules or other rules that control when and how a
 ## Awarding Experience Points
 
 Experience points are rewarded for overcoming adversaries, completing quests, and making discoveries.
+
+Characters should be awarded experience points as a group, even if they were not all necessarily involved in what happened.  For example, if someone completes a personal quest, everyone is awarded the same XP for it.
+
+There is no need to divide the experience awarded between the different player characters; it  should all be presented as an individual award.
 
 ### Overcoming Adversaries
 
@@ -63,3 +67,66 @@ Depending on the nature of the conflict with the adversary, the DM may decide th
 
 ## Completing Quests
 
+Quests are goals that are either given to characters by NPCs, or a personal quest that the characters chose for themselves based on the situations available.
+
+A quest has a specific goal in mind, such as *Slay the red dragon menacing the village* or *Rescue the mayors daughter from a vampire*.  A personal quest may be something like *Find my long lost father* or *Track down the man who murdered my brother.*
+
+The experience awarded by completing a quest is based on the scope of the quest:
+
+| Quest Type | Expected Effort (in Sessions) | Experience Award |
+|-|-|-|
+| Minor Quest | 1 | 3 XP |
+| Standard Quest | 2-3 | 9 XP |
+| Major Quest | 4-6 | 15 XP | 
+| Legendary Quest | 7-9 | 25 XP | 
+| Epic Quest | 10+ | 35 XP  |
+
+Player characters can decide what their personal quest is, but they can only have one personal quest at a time.  Changing their personal quest means that the first quest may not be able to be resumed later, depending on the DM's ruling.
+
+If you abandon the search for the man who killed your father to instead focus on winning an archery contest, maybe you weren't so dedicated to your revenge that you should get experience for it later...
+
+### Making Discoveries
+
+An adventuring world is filled with discoveries!  And making them is the most literal form of experience available.
+
+With that in mind, if characters discover things about the world, they should be awarded experience points based on the impact of that discovery.
+
+| Discovery Type | Impact | Experience Award | 
+|-|-|-|
+| Minor | Impacts only current situation | 3 XP |
+| Interesting | Expands on something about the world, but doesn't change it. | 7 XP | 
+| Major | Reveals something new about the world, that might change a character's perception about the world. | 11 XP | 
+| Amazing | Reveals something hidden about the world, and may require reassessing perspectives.  | 18 XP | 
+| Inconceivable| Reveals something that no one would believe, and changes the fundamental understanding of the world. | 25 XP | 
+
+Because these discoveries can be hard to place, below are some examples to get the mind going.
+
+#### Example Minor Discoveries
+
+- The source of a howling noise in the woods
+- The cause of smoke on the horizon
+- The lair of a hungry owlbear
+
+#### Example Interesting Discoveries
+
+- A roadside shrine
+- An ancient bridge
+- A ruined fort where knights used to train
+
+#### Example Major Discoveries
+
+- The mayor is a vampire
+- The dragon is actually rescuing princesses from their abusive parents
+- The Ebon Order was responsible for the destruction of a character's home town
+
+#### Example Amazing Discoveries
+
+- The human sacrifice to the dragon was started by the humans, who wanted to use the dragon's power for their independence from an invader
+- The roadside shrine was to a god long forgotten, but far from dead
+- The Ebon Order destroyed the village to stop an evil wizard from completing a ritual
+
+#### Inconcievable Discoveries
+
+- The vampire mayor is using blood magic to control the dragon - the sacrifices aren't to the dragon, but to the demons the vampire has a pact with!
+- The forgotten god has been pulling the strings behind fierce war that has caused the downfall of many countries - only if they are stopped can peace return!
+- The Ebon Order failed to stop the ritual - as a result, a demon now lives inside of the heart of the character!
