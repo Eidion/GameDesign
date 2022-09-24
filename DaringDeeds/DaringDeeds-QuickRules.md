@@ -13,7 +13,7 @@
   - Each Background helps you be Good At something.
   - Mark down what you are Good At!  
   - If you are already Good At it, you are Great At it!  
-  - If you are already Great At it, pick something else to be g Good At!
+  - If you are already Great At it, pick something else to be Good At!
 - You are Okay At everything else!
 - Your level is Rookie and you have 3 hearts - ♥♥♥
 
