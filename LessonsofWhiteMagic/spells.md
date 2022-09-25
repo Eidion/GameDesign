@@ -6,7 +6,9 @@
 |-|-|-|-|
 | Cantrip | [Refresh](spells.md#refresh) | Evocation | Cleric, Druid, Sorcerer, Wizard |
 | 1st | [Renewing Touch](spells.md#renewing-touch) | Evocation | Druid, Sorcerer |
-| 2nd | [Rejuvenation](spells.md#rejuvination) | Evocation | Druid, Sorcerer |  
+| 2nd | [Rejuvenation](spells.md#rejuvination) | Evocation | Druid, Sorcerer | 
+| 4th | [Renewal](spells.md#renewal) | Evocation | Druid, Sorcerer, Wizard |
+| 4th | [Revitalizing Wind](spells.md#revitalizing-wind) | Evocation | Druid, Sorcerer |
 
 
 
@@ -80,3 +82,21 @@ A creature within range regains a number of hit points equal to 6d10 + your spel
 A creature you touch regains a number of hit points equal to 1d4 + your spellcasting ability modifier. It also may immediately make a saving throw against one effect on it, with advantage.  This spell has no effect on undead or constructs.
 
 **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+
+### Revitalizing Wind
+
+*4th-Level Evocation*
+
+**Casting Time:** 1 Action
+
+**Range:** 30 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+A creature within range regains a number of hit points equal to 4d8 + your spellcasting ability modifier. It may then use its reaction to move up to its speed.
+
+This spell has no effect on undead or constructs.
+
+**At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the healing increases by 1d8 for each slot level above 1st.
