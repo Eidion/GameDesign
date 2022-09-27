@@ -39,21 +39,26 @@ There is no need to divide the experience awarded between the different player c
 
 ### Overcoming Adversaries
 
-Characters can be awarded experience for overcoming adversaries, based on the challenge of the adversary relative to the level of the player.
+Characters can be awarded experience for overcoming adversaries, whether that is in combat or in some other fashion.  
 
-| Adversary Level | Challenge Rating |  Experience Award | 
-|-|-|-|
-| Laughable | Level - 6 | 0 XP |
-| Weak | Level - 4  |  1 XP | 
-| Challenging | Level +/- 3 | 5 XP | 
-| Dangerous | Level + 4 | 10 XP | 
-| Deadly | Level + 6 | 15 XP |
+An adversary is any NPC who has an opposed goal to your character.  Adversaries can be grouped grouped together in encounters.
 
-An adversary is any NPC who has an opposed goal to your character.  Overcoming them may involve convincing them to abandon their path, avoiding them or escaping their pursuit, or by beating them in combat.  Other options are available as well, but in general it should be placed in to one of the following method:
+The DM can use the rules in the DMG for Encounter Difficulty to assign an encounter difficult level to an adversary or group of adversaries. The DM can then award experience based on the difficult of the encounter that has been overcome:
 
-- **Parley** for when you decieve, persuade, intimidate, or otherwise overcome and adversary through discussion or argument.  No one is harmed, and the adversary's perspective has changed.
-- **Bypass** for when you sneak past, evade, or otherwise overcome and adversary without direct combat.
+| Encounter Difficulty |   Experience Award | 
+|-|-|
+| Easy |  3 XP | 
+| Medium |  6 XP | 
+| Hard |  12 XP | 
+| Deadly | 24 XP |
+
+Depending on the nature of the conflict with the adversary, the DM may decide that in that situation the adversary has an adversary level not reflected by their CR.  For example, a skilled negotiator with several tricks up his sleeves might create a Hard encounter at the negotiation table, but an easy threat if the party decides to knife him in an alley.
+
+Overcoming them may involve convincing them to abandon their path, avoiding them or escaping their pursuit, or by beating them in combat.  Other options are available as well, but in general it should be placed in to one of the following method:
+
 - **Defeat** for when you face an adversary in combat, and defeat them (with or without killing them).
+- **Bypass** for when you sneak past, evade, or otherwise overcome an adversary without direct combat.
+- **Parley** for when you decieve, persuade, intimidate, or otherwise overcome and adversary through discussion or argument.  No one is harmed, and the adversary's perspective has changed.
 
 Experience points can be rewarded for any of these methods, and the different methods can be used for the same adversary at different times.
 
@@ -62,8 +67,6 @@ For example, if a character defeats an opponent in battle, takes them captive, a
 However, the DM should not award experience for repeated use of the same method.  Defeating an opponent, and then letting them rest up and challenging them to a duel, will not yield another award.  Nor will sneaking past the same guard multiple times.
 
 The difference is if there is a change in circumstances.  For example, if the party defeats an enemy knight, who then swears revenge and quests for a magic sword to slay the party, then defeating the knight again should reward additional experience awards.
-
-Depending on the nature of the conflict with the adversary, the DM may decide that in that situation the adversary has an adversary level not reflected by their CR.  For example, a skilled negotiator with several tricks up his sleeves might be a dangerous adversary at the negotiation table, but a laughable threat if the party decides to knife him in an alley.
 
 ### Completing Quests
 

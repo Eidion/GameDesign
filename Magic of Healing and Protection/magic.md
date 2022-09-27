@@ -1,16 +1,20 @@
-# White Magic Spells
+# Magic
+
+> Lore Lore
 
 ## Spells 
 
 | Level | Spell | School | Class 
 |-|-|-|-|
-| Cantrip | [Refresh](spells.md#refresh) | Evocation | Cleric, Druid, Sorcerer, Wizard |
-| 1st | [Renewing Touch](spells.md#renewing-touch) | Evocation | Druid, Sorcerer |
-| 2nd | [Rejuvenation](spells.md#rejuvination) | Evocation | Druid, Sorcerer | 
-| 4th | [Renewal](spells.md#renewal) | Evocation | Druid, Sorcerer, Wizard |
-| 4th | [Revitalizing Wind](spells.md#revitalizing-wind) | Evocation | Druid, Sorcerer |
+| Cantrip | [Refresh](magic.md#refresh) | Evocation | Cleric, Druid, Sorcerer, Wizard |
+| Cantrip | [Warding](magic.md#warding) | Abjuration | Cleric, Wizard |
+| 1st | [Renewing Touch](magic.md#renewing-touch) | Evocation | Druid, Sorcerer |
+| 2nd | [Rejuvenation](magic.md#rejuvination) | Evocation | Druid, Sorcerer | 
+| 4th | [Renewal](magic.md#renewal) | Evocation | Druid, Sorcerer, Wizard |
+| 4th | [Revitalizing Wind](magic.md#revitalizing-wind) | Evocation | Druid, Sorcerer |
 
 
+> Lore on spells
 
 
 ### Refresh
@@ -100,3 +104,25 @@ A creature within range regains a number of hit points equal to 4d8 + your spell
 This spell has no effect on undead or constructs.
 
 **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+### Warding
+
+*Abjuration Cantrip*
+
+**Casting Time:** 1 Action
+
+**Range:** 30 feet
+
+**Components:** V, S
+
+**Duration:** 1 round
+
+You extend your hand and weave a protect barrier over yourself or one creature within range.  The creature gains 5 temporary hit points.
+
+At the beginning of your next turn, the temporary hit points fade.
+
+The tempoary hit points restored increases by 5 when you reach 5th level (10 total temporary hitpoints), 11th level (15 total temporary hitpoints), and 17th level (20 total temporary hitpoints).
+
+## Magic Items
+
+> Forthcoming
