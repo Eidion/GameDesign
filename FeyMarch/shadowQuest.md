@@ -20,7 +20,7 @@ Taryn was trying to complete her journey to become the Jack of Shadows.  To do t
 - [ ] Banish a spirit to the Well of Shadows.
 - [ ] Help a faerie get vengance against those who have hurt them.
 - [ ] Make a faerie pay for something they did.
-- [ ] Face an Ashen Rider and live to tell the tale.
+- [X] Face an Ashen Rider and live to tell the tale.
 
 ## And all of these:
 
