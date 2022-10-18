@@ -1,6 +1,6 @@
 # Magic
 
-> Lore Lore
+
 
 ## Spells 
 
