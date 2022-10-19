@@ -39,7 +39,7 @@ Each knight has their own philosophy and style of battle, and their own motivati
 
 **Condition Immunities** blinded, frightened
 
-**Senses** Darkvision 60 ft., Passive Perception 12 
+**Senses** Darkvision 60 ft., Passive Perception 13 
 
 **Languages** Common, Elven, Sylvan
 
@@ -124,9 +124,13 @@ Zarion enjoys celebrations, music, and dancing.  He can be an incouragable flirt
 
 ---
 
-**Saving Throws** Strength +11, Dexterity +8, Constitution +9
+**Saving Throws** Strength +11, Dexterity +8, Constitution +9 
 
 **Skills** Acrobatics +8, Athletics +11, Intimidation +7, Perception +7
+
+**Damage Resistances** Cold, Lightning, Thunder
+
+**Damage Immunities** Fire
 
 **Senses** Darkvision 60 ft., Passive Perception 12 
 
@@ -138,34 +142,33 @@ Zarion enjoys celebrations, music, and dancing.  He can be an incouragable flirt
 
 ---
 
-**Trait.**  Description 
+**Peak Performance.**  Etelgarth has advantage on Strength and Constitution saves and checks.
 
 ---
 
 ### Actions
 
-**Attack.** +X to hit, reach 5 ft., one target.  *Hit:* XX (NdY + Z) type damage.
+**Multiattack.** Etelgarth makes three Blazing Axe attacks.
 
----
+**Blazing Axe.** +8 to hit, reach 5 ft., one target.  *Hit:* 16 (1d12 + 9) slashing damage and 14 (4d6) fire damage.
 
-### Bonus Actions
-
-**Bonus Action.**  Description 
+**Flameblast.** +8 to hit, range 60 ft., one target.  *Hit:* 35(10d6) fire damage.
 
 ---
 
 ### Reactions
 
-**Reaction.**  Description 
+**Fiery Rebuke.**  When Etelgarth is hit by a melee attack, he can use his reaction to target them with a flaming counter attack.  The attacker must make a Dexterity saving throw, DC 18.  On a failed saving throw, they take 17 (5d6) fire damage, half on a successful save.
 
 ---
 
 ### Legendary Actions
 
-Monster can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Monster regains spent legendary actions at the start of their turn.
+Etelgarth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Monster regains spent legendary actions at the start of their turn.
 
-**Legendary Action (Costs 1 Action).** Description
+**Burning Rush (Costs 1 Action).** Etelgarth can move 15 feet and make one Blazing Axe attack.
 
+**Solar Smite (Costs 1 Action).** Etelgarth slams his axe against the ground.  All creatures within 30 feet of him must make a Dexterity Save DC 18 or take 35 (10d6) fire damage.
 
 ---
 
@@ -175,4 +178,6 @@ The most senior champion knight, Etelgarth has served Queen Titania since before
 
 Like many of the knights, he is motivated by the prestige gained by his position.  However, unlike the others, he has no deeper motive.
 
-Brutally honest and direct, Etelgarth has little time for converation or pleasantries, and does not appreciate subtlety on or off the battlefield.  This has caused him to have many defeats, most often at the hands of Rowan, who has a reputation for favoring trickery to a stand up fight.
+Brutally honest and direct, Etelgarth has little time for converation or pleasantries, and does not appreciate subtlety on or off the battlefield.  He can be short sighted and thoughtless in his tactics, as a result.  This has caused him to have many defeats, most often at the hands of Rowan, who has a reputation for favoring trickery to a stand up fight.
+
+While he has many stories about him, Etelgarth does little to interact with the other members of his court - he does not play at politics, nor does he engage in celebration or artistry with the others.  This leads to others like the Speaker of Rains to consider him a blunt instrument, to be used only in the most direct of tasks.
