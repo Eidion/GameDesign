@@ -132,7 +132,7 @@ Zarion enjoys celebrations, music, and dancing.  He can be an incouragable flirt
 
 **Damage Immunities** Fire
 
-**Senses** Darkvision 60 ft., Passive Perception 12 
+**Senses** Darkvision 60 ft., Passive Perception 17 
 
 **Languages** Common, Sylvan
 
