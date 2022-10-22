@@ -181,3 +181,15 @@ Like many of the knights, he is motivated by the prestige gained by his position
 Brutally honest and direct, Etelgarth has little time for converation or pleasantries, and does not appreciate subtlety on or off the battlefield.  He can be short sighted and thoughtless in his tactics, as a result.  This has caused him to have many defeats, most often at the hands of Rowan, who has a reputation for favoring trickery to a stand up fight.
 
 While he has many stories about him, Etelgarth does little to interact with the other members of his court - he does not play at politics, nor does he engage in celebration or artistry with the others.  This leads to others like the Speaker of Rains to consider him a blunt instrument, to be used only in the most direct of tasks.
+
+> Flaw should be huberis - thinks he is the best, but because of that he isn't trying to improve as readily and so he's starting to get left behind by the "newer" generations.
+
+> Not introspective enough.  Not self aware
+
+> Trying to improve makes him look weak, so he has to double down.  Believing his own hype and isn't trying to continually improve
+
+> Honorable - he doesn't lie, his word is his bond, once he commits to something he sees it through to the best of his ability.  He's loyal to the Summer Court - looks at Zarion as a "traitor" same with Lenola.
+
+> Hubris flaw is endimic to the summer court over all - and so it doesn't sour his position except to "newer" players in the game.
+
+Etelgarth 
