@@ -38,11 +38,14 @@
   - Become Great At two things you are Good At.
   - Become Good At three things you are Okay At.
   - Become Okay At two things you are Bad At.
-- The levels are:
-  - Rookie - ♥♥♥
-  - Novice - ♥♥♥♥
-  - Skilled - ♥♥♥♥♥
-  - Mighty - ♥♥♥♥♥♥
+
+The levels are:
+| Level | Hearts|
+|-|-|
+|Rookie | ♥♥♥
+|Novice | ♥♥♥♥
+|Skilled | ♥♥♥♥♥
+|Mighty | ♥♥♥♥♥♥
 
 
 
