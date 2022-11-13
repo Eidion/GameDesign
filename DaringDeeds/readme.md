@@ -8,6 +8,20 @@ D4, D6, D8, D10, D12, and D20 icons  by Lonnie Tapscott from NounProject.com
 
 ## Table of Contents
 
+- [Overview](1-Overview.md) - To learn a bit about the game and how it is played before digging in to the bigger rules.
+- [Actions](2-Actions.md) - To learn about how your hero will interact with the world.
+- [Skills](3-Skills.md) - To learn about the skills your hero will use to overcome challenges.
+- [Backgrounds](4-Backgrounds.md) - To learn about the backgrounds your hero might have, and how they will impact your adventures.
+- [Classes](5-Classes.md) - To learn about the different types of training your hero might have.
+- [Equipment](6-Equipment.md) - To learn about the weapons, armor, potions, and other gear that your hero will use on their adventure.
+- [Arcana](7-Arcana.md) - To learn about the spells and other magic your hero might master on their adventure.
+- [Storytelling](8-StoryTelling.md) - To learn about being the Storyteller, and how to make an adventure for *Daring Deeds*.
+- [Adversaries](9-Adversaries.md) - To learn about the monsters, villains, and other Adversaries that a Storyteller might put in an Adventure.
+
+
+
+## Old Notes
+
 *Note* that Story Teller rules are currently missing.
 
 - [Quick Rules](DaringDeeds-QuickRules.md) for creating a character and resolving challenges.
