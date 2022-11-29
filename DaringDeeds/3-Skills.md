@@ -27,6 +27,21 @@ You can be **Okay At** a Skillset, meaning that you are about as good with it as
 
 You can be **Good At** a Skillset, meaning that you are better than most with it.  You have worked to learn this Skillset, and feel comfortable using it in a variety of situations.  You can expect to succeed against many challenges, but high difficulty challenges can still hinder you.
 
-You can be **Great At** a Skillset, meaning that you have spent a lot of time and energy mastering it.  You are better than almost anyone at it, and people are impressed at your skill in this area.  You can expect to succeed against most challenges; even high difficulty challenges 
+You can be **Great At** a Skillset, meaning that you have spent a lot of time and energy mastering it.  You are better than almost anyone at it, and people are impressed at your skill in this area.  You can expect to succeed against most challenges; even high difficulty challenges are possible for you!
+
+You can be **Amazing At** a Skillset, meaning that you have achieved a high degree of mastery that few people ever obtain.  You are among the best in the world at using this skill.  You can expect to succeed at even the most difficult challenges.
+
+### Dice Rolls
+
+Based on your skill level with a skillset, you gain a bonus on your <img src="img/d20.png" alt="d20" width="25"/> roll to succeed at a task.
+
+| Skill Level | Bonus Dice |
+|-|-|
+| Bad At | <img src="img/d4.png" alt="d4" width="50"/>|
+| Okay At | <img src="img/d6.png" alt="d6" width="50"/>| 
+| Good At | <img src="img/d8.png" alt="d8" width="50"/>|
+| Great At | <img src="img/d10.png" alt="d10" width="50"/>| 
+| Amazing At | <img src="img/d12.png" alt="d12" width="50"/>| 
+
 
 
