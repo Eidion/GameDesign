@@ -6,8 +6,8 @@ A **Skill** is the result of your training, either as part of your background, y
 
 - Striking, Protecting, and Carrying
 - Dodging, Sneaking, and Shooting
-- Magic, Figuring, and Learning
-- Healing, Feeling, and Hoping
+- Knowing, Figuring, and Learning
+- Feeling, Understanding, and Hoping
 - Hearing, Listening, and Noticing
 - Navigating, Hunting, and Exploring
 - Singing, Talking, and Making Friends
@@ -31,11 +31,11 @@ You can be **Great At** a Skillset, meaning that you have spent a lot of time an
 
 You can be **Amazing At** a Skillset, meaning that you have achieved a high degree of mastery that few people ever obtain.  You are among the best in the world at using this skill.  You can expect to succeed at even the most difficult challenges.
 
-### Dice Rolls
+### Skill Die
 
-Based on your skill level with a skillset, you gain a bonus on your <img src="img/d20.png" alt="d20" width="25"/> roll to succeed at a task.
+Based on your skill level with a skillset, you gain a bonus on your <img src="img/d20.png" alt="d20" width="25"/> roll to succeed at a task.  This is called a Skill Die.
 
-| Skill Level | Bonus Dice |
+| Skill Level | Skill Die |
 |-|-|
 | Bad At | <img src="img/d4.png" alt="d4" width="50"/>|
 | Okay At | <img src="img/d6.png" alt="d6" width="50"/>| 
@@ -43,5 +43,7 @@ Based on your skill level with a skillset, you gain a bonus on your <img src="im
 | Great At | <img src="img/d10.png" alt="d10" width="50"/>| 
 | Amazing At | <img src="img/d12.png" alt="d12" width="50"/>| 
 
+## Gaining Skills
 
+When you create your character, you will gain starting skill based on your [Background](4-Backgrounds.md) and [Class](5-Classes.md)
 

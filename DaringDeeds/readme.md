@@ -13,10 +13,11 @@ D4, D6, D8, D10, D12, and D20 icons  by Lonnie Tapscott from NounProject.com
 - [Skills](3-Skills.md) - To learn about the skills your hero will use to overcome challenges.
 - [Backgrounds](4-Backgrounds.md) - To learn about the backgrounds your hero might have, and how they will impact your adventures.
 - [Classes](5-Classes.md) - To learn about the different types of training your hero might have.
-- [Equipment](6-Equipment.md) - To learn about the weapons, armor, potions, and other gear that your hero will use on their adventure.
+- [Equipment and Battling](6-Equipment.md) - To learn about the weapons, armor, potions, and other gear that your hero will use on their adventure.
 - [Arcana](7-Arcana.md) - To learn about the spells and other magic your hero might master on their adventure.
-- [Storytelling](8-StoryTelling.md) - To learn about being the Storyteller, and how to make an adventure for *Daring Deeds*.
-- [Adversaries](9-Adversaries.md) - To learn about the monsters, villains, and other Adversaries that a Storyteller might put in an Adventure.
+- [Arcana](8-Advancement.md) - To learn about how your character will grow in strength over their adventure.
+- [Adversaries](9-Adversaries.md) - To learn about the monsters, villains, and other Adversaries that a Storyteller might put in an Adventure, and how to do battle with them.
+- [Storytelling](10-StoryTelling.md) - To learn about being the Storyteller, and how to make an adventure for *Daring Deeds*.
 
 
 
